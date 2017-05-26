@@ -1,0 +1,6 @@
+7|5
+Facebook|2|May/25/2017|1 hours|stalking old friends|3
+Snapchat|1|May/20/2017|50 minutes|sending videos|8
+Line|2|May/16/2017|54 minutes|Texting|2
+Whats app|1|May/04/2017|30 minutes|Texting groups|1
+Slack|1|May/24/2017|2 hours|Texting|10
